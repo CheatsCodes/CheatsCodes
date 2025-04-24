@@ -54,9 +54,9 @@
 
 ## 📈 **Estatísticas do GitHub**
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheatsCodes&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CheatsCodes&layout=compact&theme=radical)
 
 *(Recomendo instalar o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
 
