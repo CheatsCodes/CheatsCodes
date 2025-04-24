@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rodrigo Schumacher! 
 
-![GitHub Banner](https://via.placeholder.com/1200x400?text=Data+%26+Code+Enthusiast) *(Substitua por um banner personalizado)*
+
 
 **🎯 Objetivo:** Me tornar um **Cientista de Dados** | **Desenvolvedor Backend**  
 **📚 Atualmente:** Estudando tecnologias-chave para entrar no mercado  
