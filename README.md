@@ -58,7 +58,6 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CheatsCodes&layout=compact&theme=radical)
 
-*(Recomendo instalar o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
 
 ---
 
