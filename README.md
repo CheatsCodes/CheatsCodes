@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]! 
+# 👋 Olá, eu sou Rodrigo Schumacher! 
 
 ![GitHub Banner](https://via.placeholder.com/1200x400?text=Data+%26+Code+Enthusiast) *(Substitua por um banner personalizado)*
 
@@ -38,7 +38,7 @@
    - Express.js + MongoDB  
    - Integração com API externa  
 
-*(Adicione 2-3 projetos com descrição curta e tecnologias usadas)*
+
 
 ---
 
@@ -77,5 +77,3 @@
 
 ---
 
-> *"A jornada de mil milhas começa com um único passo."* — Lao Tzu  
-> *(Substitua por sua própria frase motivacional!)*
